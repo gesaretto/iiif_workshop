@@ -1,0 +1,8 @@
+{
+  "@context":"http://iiif.io/api/image/2/context.json",
+  "@id":
+  "https://images.britishart.yale.edu/iiif/2/bf9aaac2-5628-4db0-bf94-f55a2e82c541",
+  "protocol":"http://iiif.io/api/image",
+  "width":7008,
+  "height":6419,
+  "sizes":[{"width":110,"height":100},{"width":219,"height":201},{"width":438,"height":401},{"width":876,"height":802},{"width":1752,"height":1605},{"width":3504,"height":3210}],"tiles":[{"width":1024,"height":1024,"scaleFactors":[1,2,4,8,16,32,64]}],"profile":["http://iiif.io/api/image/2/level2.json",{"formats":["tif","jpg","gif","png"],"maxArea":400000000,"qualities":["bitonal","default","gray","color"],"supports":["sizeByW","regionByPx","sizeByWhListed","cors","regionSquare","sizeByDistortedWh","sizeAboveFull","canonicalLinkHeader","sizeByConfinedWh","sizeByPct","jsonldMediaType","regionByPct","sizeByH","rotationArbitrary","baseUriRedirect","rotationBy90s","profileLinkHeader","sizeByForcedWh","sizeByWh","mirroring"]}]}
