@@ -1,4 +1,6 @@
-### Notes from IIIF Workshop
+## Notes from IIIF Workshop
+
+### Session 1
 
 #### Presentation - Benjamin Albritton
 
@@ -204,3 +206,25 @@
     - [Digital Commonwealth](https://www.digitalcommonwealth.org/search/commonwealth:7d279x48j) also hides the instructions.
 
 - So, one has the image, with a persistent URL; the image has an _info.json_ associated with it; multiple images are then strung together in a _Manifest_-- which has a _manifest.json_ file associated with it. _Mirador_ requires a _manifest.json_.
+
+## Session 2
+
+### What a Mirador Is
+
+- Play around with the [demo](https://projectmirador.org/demo/).
+
+- It is possible to incorporate the logo of the hosting institution into the meta data associated with an image.
+
+### Using Your Own Images
+
+- Upload them on **archive.org**; through **archivelab.org** one can automatically create a `manifest.json` file. The formula to follow is this:
+
+> `http://iiif.archivelab.org/iiif/IMAGE PATH/manifest.json`
+
+- You can also create your own manifest by using a manifest editor:
+
+    1. [Digirati Manifest Editor](https://iiif-manifest-editor-live-demo.netlify.com/);
+
+    2. [Oxford Manifest Editor](http://iiif.bodleian.ox.ac.uk/manifest-editor).
+
+- You can also run a server from your own computer, using Docker.
