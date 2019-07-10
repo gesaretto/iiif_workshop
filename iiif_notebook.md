@@ -228,3 +228,20 @@
     2. [Oxford Manifest Editor](http://iiif.bodleian.ox.ac.uk/manifest-editor).
 
 - You can also run a server from your own computer, using Docker.
+
+---
+
+### Session 2
+
+#### Benjamin Albritton: Telling a Story With Mirador
+
+- We placed different manifests onto our Mirador; remember the steps involved:
+
+    1. adding the address of the manifest.json that matters to us to the list of "data" items;
+    2.
+
+- Now, to understand what ...
+
+    - An annotation within IIIF corresponds to a "Linked data construct"; it is a connection between two pieces of information; an annotation is a relationship.
+
+    - __Region of interest__ and __text__.
