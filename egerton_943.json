@@ -1,0 +1,529 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://d2046ce9-bb50-4e60-853a-84299fc8d03c",
+	"@type": "sc:Manifest",
+	"label": "Illuminations of Purgatorio XXI-XXVII from Egerton 943",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Illuminations from the sixth terrace section of Purgatorio (XXI-XXVII), also known as the \"cantos of gluttony.\"",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "British Library; Egerton 943 ff. 100v-112r",
+	"sequences": [
+		{
+			"@id": "http://e276ce2c-b1c5-4a8c-8948-bd402cff2f2c",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://8e2dbc9c-73cf-47d7-8772-b56cee23b76d",
+					"@type": "sc:Canvas",
+					"label": "100v",
+					"height": 1000,
+					"width": 1500,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b60ccb84-77f9-46be-ac90-5d9f38016c87",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/url2iiif$4d1bafb57eda39077f6ea34513ef614656859889af74cd407ff620afe2a65f9c/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/url2iiif$4d1bafb57eda39077f6ea34513ef614656859889af74cd407ff620afe2a65f9c",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 1000,
+								"width": 1500
+							},
+							"on": "http://8e2dbc9c-73cf-47d7-8772-b56cee23b76d"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://94382734-0db7-4b55-8f58-8529cc6401db",
+					"@type": "sc:Canvas",
+					"label": "101v",
+					"height": 1500,
+					"width": 990,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://72ffdc9f-5788-47af-89d5-95102e7ea904",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/url2iiif$a9e7245abc0dc64837f0000f7ded72abcb492f3a58527cdf783b0bc68aeee1b2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/url2iiif$a9e7245abc0dc64837f0000f7ded72abcb492f3a58527cdf783b0bc68aeee1b2",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 1500,
+								"width": 990
+							},
+							"on": "http://94382734-0db7-4b55-8f58-8529cc6401db"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://89a16013-ba8f-470d-8553-f27133ea85b5",
+					"@type": "sc:Canvas",
+					"label": "102r",
+					"height": 988,
+					"width": 1500,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5df9a8fe-c7b5-433e-a315-99c963143079",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/url2iiif$8a228a0b92aeaf7393fcdae70107e8af0d16c091ff638ec3bcf83c94284b7144/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/url2iiif$8a228a0b92aeaf7393fcdae70107e8af0d16c091ff638ec3bcf83c94284b7144",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 988,
+								"width": 1500
+							},
+							"on": "http://89a16013-ba8f-470d-8553-f27133ea85b5"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://d925aeb0-67e3-47ec-8751-63b04e2658dc",
+					"@type": "sc:Canvas",
+					"label": "103v",
+					"height": 981,
+					"width": 1500,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://6ae76c65-8a01-41f4-aeb2-38ddd0dc0947",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/url2iiif$b21a09ae12a375610933b1609fbed5e9adafa3195e85670fddbd2c2257d17020/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/url2iiif$b21a09ae12a375610933b1609fbed5e9adafa3195e85670fddbd2c2257d17020",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 981,
+								"width": 1500
+							},
+							"on": "http://d925aeb0-67e3-47ec-8751-63b04e2658dc"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://b74b6a18-8b6b-4e6f-bb78-c0719297e215",
+					"@type": "sc:Canvas",
+					"label": "104r",
+					"height": 982,
+					"width": 1500,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://7a400010-48bb-46b6-ad1b-51d8330d46f7",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/url2iiif$8082b380729e3b472e74001e44a57db489dacbb947d7906a4edf583488279ed5/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/url2iiif$8082b380729e3b472e74001e44a57db489dacbb947d7906a4edf583488279ed5",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 982,
+								"width": 1500
+							},
+							"on": "http://b74b6a18-8b6b-4e6f-bb78-c0719297e215"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://3e7eaf76-c20f-4661-898c-68a84562dcac",
+					"@type": "sc:Canvas",
+					"label": "104v",
+					"height": 972,
+					"width": 1500,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://32e44a56-c468-4194-a38c-26d5b76fdf2f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/url2iiif$34f928e70c0ffd17ca3b2e578006f7e03aa15bac1756011fe25f719d8d0ef45e/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/url2iiif$34f928e70c0ffd17ca3b2e578006f7e03aa15bac1756011fe25f719d8d0ef45e",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 972,
+								"width": 1500
+							},
+							"on": "http://3e7eaf76-c20f-4661-898c-68a84562dcac"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://c3a267ed-da31-4a58-b231-b5539e25f609",
+					"@type": "sc:Canvas",
+					"label": "f105v",
+					"height": 981,
+					"width": 1500,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://97837f05-f4e4-4d11-ae0c-bb1356df686d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/url2iiif$530d41d7248913c779e07c14b371be622694f15860657f889cf2d705de7010ea/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/url2iiif$530d41d7248913c779e07c14b371be622694f15860657f889cf2d705de7010ea",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 981,
+								"width": 1500
+							},
+							"on": "http://c3a267ed-da31-4a58-b231-b5539e25f609"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://05d3c561-0ae9-41d0-8a40-cfdbb44732f3",
+					"@type": "sc:Canvas",
+					"label": "106r",
+					"height": 987,
+					"width": 1500,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://17c2c545-e7ae-4cc0-ae78-528c7f990b61",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/url2iiif$9cf7aef8852b3bdd0e5a70650e560840bd4e0dbeeacabd1f9c4151232a00e436/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/url2iiif$9cf7aef8852b3bdd0e5a70650e560840bd4e0dbeeacabd1f9c4151232a00e436",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 987,
+								"width": 1500
+							},
+							"on": "http://05d3c561-0ae9-41d0-8a40-cfdbb44732f3"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://c8cade81-3cfc-48c6-a8b8-c1e36d1b4c95",
+					"@type": "sc:Canvas",
+					"label": "107r",
+					"height": 978,
+					"width": 1500,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5fbdf198-2d27-4616-8b32-1cf942179d41",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/url2iiif$6babd5824d347d589f6f20d84b1539cd34d80b97d65b30d9823a4e811d818ed0/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/url2iiif$6babd5824d347d589f6f20d84b1539cd34d80b97d65b30d9823a4e811d818ed0",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 978,
+								"width": 1500
+							},
+							"on": "http://c8cade81-3cfc-48c6-a8b8-c1e36d1b4c95"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://284dc631-40d8-41da-8bdb-435e7a244a92",
+					"@type": "sc:Canvas",
+					"label": "107v",
+					"height": 980,
+					"width": 1500,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://6dbdf9d1-150a-47ef-ada3-b4b546312ddc",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/url2iiif$ca381d0ec2ef3212543a931ba7af1299e70e371de80c05d3668df750d48c7928/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/url2iiif$ca381d0ec2ef3212543a931ba7af1299e70e371de80c05d3668df750d48c7928",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 980,
+								"width": 1500
+							},
+							"on": "http://284dc631-40d8-41da-8bdb-435e7a244a92"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://510a824a-a218-44c7-a8fe-44daa4007bab",
+					"@type": "sc:Canvas",
+					"label": "108r",
+					"height": 980,
+					"width": 1500,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a2a04905-022f-45ed-a44e-7bbb6fb6bd6b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/url2iiif$8ea2abce56552781f529f8db445e13c8f2fba0d1e6c9f9729249c488b9b2dff2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/url2iiif$8ea2abce56552781f529f8db445e13c8f2fba0d1e6c9f9729249c488b9b2dff2",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 980,
+								"width": 1500
+							},
+							"on": "http://510a824a-a218-44c7-a8fe-44daa4007bab"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://8d37a730-d942-452c-a404-cf631e7c7a8f",
+					"@type": "sc:Canvas",
+					"label": "108v",
+					"height": 983,
+					"width": 1500,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b437b2e9-4446-4381-b5ac-000842263e0a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/url2iiif$5ab0d23b0777096a9f503e3894862008ff75d841d0daa76a0ccd7543dac69875/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/url2iiif$5ab0d23b0777096a9f503e3894862008ff75d841d0daa76a0ccd7543dac69875",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 983,
+								"width": 1500
+							},
+							"on": "http://8d37a730-d942-452c-a404-cf631e7c7a8f"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://f299a0e6-0465-4ca1-bc9e-53ac60f693c8",
+					"@type": "sc:Canvas",
+					"label": "109v",
+					"height": 1500,
+					"width": 977,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1ba8adc7-1c2d-4626-af55-35722f14f074",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/url2iiif$27768aed9533edcf3dd1491eaac386f0289a599fc5f8595c530d516978c73f86/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/url2iiif$27768aed9533edcf3dd1491eaac386f0289a599fc5f8595c530d516978c73f86",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 1500,
+								"width": 977
+							},
+							"on": "http://f299a0e6-0465-4ca1-bc9e-53ac60f693c8"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://1a07f429-e781-4e9e-9c3b-02e3546fd7b3",
+					"@type": "sc:Canvas",
+					"label": "110r",
+					"height": 991,
+					"width": 1500,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f25ced2a-cc67-4283-9fd8-a5606482b2fe",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/url2iiif$387f2985f7f43c95506a0e13f8dfe30a653a300b9e44e8c4409efdeac6fff757/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/url2iiif$387f2985f7f43c95506a0e13f8dfe30a653a300b9e44e8c4409efdeac6fff757",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 991,
+								"width": 1500
+							},
+							"on": "http://1a07f429-e781-4e9e-9c3b-02e3546fd7b3"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://a59098ef-b01d-4c2c-aa77-765bc8f8201a",
+					"@type": "sc:Canvas",
+					"label": "111r",
+					"height": 984,
+					"width": 1500,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://bed04370-472d-40d5-af29-a882c2ff6910",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/url2iiif$b5e157a42c507e9d4a63279a8d04ec0906db20277ce1117458a5e503919c38cb/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/url2iiif$b5e157a42c507e9d4a63279a8d04ec0906db20277ce1117458a5e503919c38cb",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 984,
+								"width": 1500
+							},
+							"on": "http://a59098ef-b01d-4c2c-aa77-765bc8f8201a"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://b04e5ed4-86e1-44e8-b2e0-c1829484bfda",
+					"@type": "sc:Canvas",
+					"label": "112r",
+					"height": 982,
+					"width": 1500,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3fb64795-c894-420f-a426-d89aafaa0e27",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/url2iiif$be6fe75d6073171ad56c5d32f73c775e49dc5b12b505aa637079380020a5930d/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/url2iiif$be6fe75d6073171ad56c5d32f73c775e49dc5b12b505aa637079380020a5930d",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 982,
+								"width": 1500
+							},
+							"on": "http://b04e5ed4-86e1-44e8-b2e0-c1829484bfda"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"thumbnail": {
+		"@id": "http://3e7eaf76-c20f-4661-898c-68a84562dcac"
+	}
+}

@@ -238,10 +238,27 @@
 - We placed different manifests onto our Mirador; remember the steps involved:
 
     1. adding the address of the manifest.json that matters to us to the list of "data" items;
-    2.
+
+    2. adding ... ;
+
+    3. .
 
 - Now, to understand what ...
 
     - An annotation within IIIF corresponds to a "Linked data construct"; it is a connection between two pieces of information; an annotation is a relationship.
 
     - __Region of interest__ and __text__.
+
+---
+
+### Session 3
+
+#### A Reminder Concerning Gists
+
+- We use _gists_ to share information. Remember that even a __private gist__ can be accessed by other users (it is simply _hidden_, not _inaccessible_).
+
+    - So, for instance, we would use a _gist_ to share a `manifest.json` file which we have created.
+
+#### Manifest Editors
+
+- The editor that we are going to use is the [Oxford IIIF Editor](https://iiif-manifest-editor.textandbytes.com/#/?_k=k27u1t). 
